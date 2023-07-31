@@ -32,7 +32,7 @@ const loop = setInterval(() => {
         clearInterval(loop);
     }
 
-}, 10git);
+}, 10);
 
 
 document.addEventListener('keydown', jump);
